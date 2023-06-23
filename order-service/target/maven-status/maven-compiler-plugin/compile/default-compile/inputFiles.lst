@@ -1,0 +1,11 @@
+C:\Users\HIULIO\Desktop\Projects\microservices-new\order-service\src\main\java\com\programming\orderservice\service\OrderService.java
+C:\Users\HIULIO\Desktop\Projects\microservices-new\order-service\src\main\java\com\programming\orderservice\config\WebClientConfig.java
+C:\Users\HIULIO\Desktop\Projects\microservices-new\order-service\src\main\java\com\programming\orderservice\dto\OrderLineItemsDto.java
+C:\Users\HIULIO\Desktop\Projects\microservices-new\order-service\src\main\java\com\programming\orderservice\dto\InventoryResponse.java
+C:\Users\HIULIO\Desktop\Projects\microservices-new\order-service\src\main\java\com\programming\orderservice\model\Order.java
+C:\Users\HIULIO\Desktop\Projects\microservices-new\order-service\src\main\java\com\programming\orderservice\model\OrderLineItems.java
+C:\Users\HIULIO\Desktop\Projects\microservices-new\order-service\src\main\java\com\programming\orderservice\dto\OrderRequest.java
+C:\Users\HIULIO\Desktop\Projects\microservices-new\order-service\src\main\java\com\programming\orderservice\event\OrderPlacedEvent.java
+C:\Users\HIULIO\Desktop\Projects\microservices-new\order-service\src\main\java\com\programming\orderservice\repository\OrderRepository.java
+C:\Users\HIULIO\Desktop\Projects\microservices-new\order-service\src\main\java\com\programming\orderservice\OrderServiceApplication.java
+C:\Users\HIULIO\Desktop\Projects\microservices-new\order-service\src\main\java\com\programming\orderservice\controller\OrderController.java
